@@ -3,8 +3,7 @@
 <p><em>Software Enginner at JiangSu/Suzhou </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant at <a href="https://www.hgj.com">HGJ.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/misselvexu)](https://badges.pufler.dev)
+[![GitHub Misselvexu](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
 [![Repos Badge](https://badges.pufler.dev/repos/misselvexu)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/misselvexu)](https://badges.pufler.dev)
 
