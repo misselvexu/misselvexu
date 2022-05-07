@@ -1,6 +1,6 @@
-<h2> Hi, I'm misselvexu !<img src="https://media.giphy.com/media/Qs1EbHPzBtBvRdECyg/giphy.gif" width="30" height="30"></h2>
+<h2> Hi, I'm palmer ~ .<img src="https://media.giphy.com/media/Qs1EbHPzBtBvRdECyg/giphy.gif" width="30" height="30"></h2>
 <img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="249">
-<p><em>Software Enginner at JiangSu/Suzhou </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant at <a href="https://www.hgj.com">HGJ.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
+<p><em>Software Enginner at Shanghai/China </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant at <a href="https://www.tencent.com">tencent.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </em></p>
 
 [![GitHub Misselvexu](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
@@ -11,9 +11,9 @@
 
 ```javascript
 const misselvexu = {
-  base: "SuZ",
-  code: [JAVA],
-  tools: [Reactor-JAVA, Docker,Spring-Boot,Spring-Cloud],
+  base: "ShangHai",
+  code: [Java, Golang, Rust],
+  tools: [Reactor, Docker, Spring-Framework, Spring-Cloud],
   architecture: ["microservices", "event-driven", "design system pattern", "database"],
   communities: {
       // .. ... ....
