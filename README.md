@@ -1,5 +1,4 @@
 <h2> Hi, I'm palmer ~ .<img src="https://media.giphy.com/media/Qs1EbHPzBtBvRdECyg/giphy.gif" width="30" height="30"></h2>
-<img align='right' src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="199">
 <p><em>Software Enginner at Shanghai/China </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant at <a href="https://www.tencent.com">tencent.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </em></p>
 
