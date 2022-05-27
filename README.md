@@ -1,4 +1,4 @@
-<h2> Hi, I'm palmer ~ .<img src="https://media.giphy.com/media/Qs1EbHPzBtBvRdECyg/giphy.gif" width="30" height="30"></h2>
+<h2> Hi, I'm palmer ~ <img src="https://media.giphy.com/media/Qs1EbHPzBtBvRdECyg/giphy.gif" width="30" height="30"></h2>
 <p><em>Software Enginner at Shanghai/China </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant at <a href="https://www.tencent.com">tencent.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </em></p>
 
@@ -13,7 +13,7 @@ const misselvexu = {
   base: "ShangHai",
   code: [Java, Golang, Rust],
   tools: [Reactor, Docker, Spring Framework, Spring Cloud],
-  architecture: ["microservices", "event-driven", "design system pattern", "database"],
+  architecture: ["microservices", "event-driven", "design system pattern", "database", "mesh"],
   communities: {
       // .. ... ....
   }
