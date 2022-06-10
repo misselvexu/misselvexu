@@ -1,5 +1,5 @@
 <h2> Hi, I'm palmer ~ <img src="https://media.giphy.com/media/Qs1EbHPzBtBvRdECyg/giphy.gif" width="30" height="30"></h2>
-<p><em>Software Enginner at Shanghai/China </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant at <a href="https://www.tencent.com">tencent.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
+<p><em>Software Enginner at Shanghai/China </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant For <a href="https://www.tencent.com">tencent.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </em></p>
 
 [![GitHub Misselvexu](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
