@@ -4,7 +4,6 @@
 
 [![GitHub Misselvexu](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
 [![Repos Badge](https://badges.pufler.dev/repos/misselvexu)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/misselvexu)](https://badges.pufler.dev)
 
 ### About me...  
 
