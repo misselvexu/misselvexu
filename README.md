@@ -12,7 +12,7 @@
 const misselvexu = {
   base: "ShangHai",
   code: [Java, Golang, Rust],
-  tools: [Reactor, Docker, Spring Framework, Spring Cloud],
+  tools: [Reactor, Netty, Spring Framework, Spring Cloud],
   architecture: ["microservices", "event-driven", "design system pattern", "database", "mesh"],
   communities: {
       // .. ... ....
