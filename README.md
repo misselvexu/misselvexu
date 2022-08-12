@@ -15,7 +15,7 @@ const misselvexu = {
   tools: [Reactor, Netty, Spring Framework, Spring Cloud],
   architecture: ["microservices", "event-driven", "design system pattern", "database", "mesh"],
   communities: {
-      // .. ... ....
+      // . .. ... ....
   }
 }
 ```
