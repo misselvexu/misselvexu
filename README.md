@@ -1,5 +1,5 @@
 <h2> Hi, I'm o'Laoxu , </h2>
-<p><em>Software Enginner at Shanghai/China </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>Developer Consultant For <a href="https://www.tencent.com">tencent.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
+<p><em>Software Enginner at Shanghai/China </a></br>Developer Consultant For <a href="https://www.tencent.com">TENCENT.COM</a> | <a href="https://www.hgj.com">HGJ.COM</a> 
 </em></p>
 
 [![GitHub Misselvexu](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
