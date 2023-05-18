@@ -1,12 +1,14 @@
-<h2> Hi, I'm o'Laoxu , </h2>
-<p><em>Software Enginner at Shanghai/China </a></br>Developer Consultant For <a href="https://www.tencent.com">TENCENT.COM</a> | <a href="https://www.hgj.com">HGJ.COM</a> 
-</em></p>
+Hi there 👋
 
-[![GitHub Misselvexu](https://img.shields.io/github/followers/misselvexu?label=follow&style=social)](https://github.com/misselvexu)
-[![Repos Badge](https://badges.pufler.dev/repos/misselvexu)](https://badges.pufler.dev)
-<img src="https://visitor-badge.glitch.me/badge?page_id=misselvexu">
+- 🎉 I’m currently working on helping company get to production faster. I've got a github repository group about Spring Tips & Cloud Native projects , Reactive Spring, [my weekly blogs](https://vopen.xyz), my code (you're already here!), and more.
+- 🥕 I’m currently learning YAML
+- 💡 I’m looking to collaborate on Spring and its adjacent communities
+- ⌨️ I’m looking for help with continuous delivery, YAML, Java, Kotlin, Golang, Rust, etc.
+- 💬 Ask me about Spring and cloud native, reactive architectures
+- 🌐 How to reach me: I'm on Twitter (@misselvexu). This's the best way. There's also e-mail (iskp.me@gmail.com)
+- ⚠️ Pronouns: he/him/they
+Are you looking for a repository you saw mentioned somewhere? 
 
-### About me...  
 
 ```javascript
 const misselvexu = {
