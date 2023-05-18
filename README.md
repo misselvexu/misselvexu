@@ -13,6 +13,5 @@ Are you looking for a repository you saw mentioned somewhere?
 
 <a href="https://vopen.xyz">
 <img height="120px" src="https://github-readme-stats.vercel.app/api?username=wilkinsona&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&card_width=500px" alt="VOPEN.XYZ GitHub Stats"/>
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misselvexu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=500px" alt="VOPEN.XYZ Tools"/>
+&nbsp;&nbsp;&nbsp;<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misselvexu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=500px" alt="VOPEN.XYZ Tools"/>
 </a>
-
