@@ -3,11 +3,11 @@
 Hi there 👋
 
 - 🎉 I’m currently working on helping company get to production faster. I've got a github repository group about Spring Tips & Cloud Native projects , Reactive Spring, [my weekly blogs](https://vopen.xyz), my code (you're already here!), and more.
-- 🥕 I’m currently learning YAML
-- 💡 I’m looking to collaborate on Spring and its adjacent communities
+- 🥕 I’m currently learning LLM & Agentic Framework(s).
+- 💡 I’m looking to collaborate on Spring and its adjacent communities.
 - ⌨️ I’m looking for help with continuous delivery, YAML, Java, Kotlin, Golang, Rust, etc.
-- 💬 Ask me about Spring and cloud native, reactive architectures
-- 🌐 How to reach me: I'm on Twitter (@misselvexu). This's the best way. There's also e-mail 💌<a href="mailto:iskp.me@gmail.com">iskp.me@gmail.com</a>
+- 💬 Ask me about Spring and cloud native, reactive architectures.
+- 🌐 How to reach me: I'm on Twitter (@misselvexu). This's the best way. There's also e-mail 💌<a href="mailto:iskp.me@gmail.com">iskp.me@gmail.com</a>.
 - ⚠️ Pronouns: he/him/they
 Are you looking for a repository you saw mentioned somewhere? 
 
